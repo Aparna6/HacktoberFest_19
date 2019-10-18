@@ -37,4 +37,4 @@ View Your contribution at: https://helios1101.github.io/HacktoberFest_19/Task1/
 
 ### Humble Request !important
 
-All the enthusiastic contributors are requested to add their part carefully following the proper code block which is to be to be copy-pasted and then edited. Also,before sendng a PR, it would be great if you yourself render the html page at least once to see how your changes are manifested. There have been instances where a single contribution destroyed the entire layout of the page, even affecting others' contributions.
+All the enthusiastic contributors are requested to add their part carefully following the proper code block which is to be copy-pasted and then edited. Also,before sendng a PR, it would be great if you yourself render the html page at least once to see how your changes are manifested. There have been instances where a single contribution destroyed the entire layout of the page, even affecting others' contributions.
